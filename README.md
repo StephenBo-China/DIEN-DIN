@@ -62,9 +62,9 @@ DIN_train_example.ipynb
 
 # 代码:
 
-- model.py: 定义DIEN模型代码
+- model.py: 定义模型代码
 
-- layers.py: DIEN中用到的自定义层
+- layers.py: 自定义层
 
 - loss.py: 定义Auxiliary Loss用到的NN
 
