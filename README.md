@@ -1,8 +1,11 @@
 # DIEN-DIN
 
 本项目使用tensorflow2.0复现阿里兴趣排序模型DIEN与DIN。
+
 DIN论文链接: https://arxiv.org/pdf/1706.06978.pdf
+
 DIEN论文链接: https://arxiv.org/pdf/1809.03672.pdf
+
 数据集使用阿里数据集测试模型代码, 数据集链接: https://tianchi.aliyun.com/dataset/dataDetail?dataId=56 
 
 # 调用方法:
